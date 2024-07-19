@@ -1,0 +1,59 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(49, 48, 48);
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    text-align:center;
+    margin-top:200px;
+    color:white;
+}
+header{
+    
+}
+input[type="text"]
+{
+    border:2px solid black;
+    width:100px;
+    height:100px;
+    font-size:80px;
+    text-align:center;
+    cursor: pointer;
+
+  
+}
+.rowone{
+    display:flex;
+    justify-content:center;
+    text-decoration: line-through;
+    
+        
+}
+.space{
+    padding:1px;
+    cursor:pointer;
+ 
+    
+}
+.rowtwo{
+    display:flex;
+    justify-content:center;
+}
+.rowthree
+{
+    display:flex;
+    justify-content:center;
+}
+#btn{
+    margin-top:50px;
+    width:120px;
+    height:40px;
+    background-color:yellow;
+    color:black;
+    border:1px solid blue ;
+    font-size:20px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.winner{
+ 
+}
